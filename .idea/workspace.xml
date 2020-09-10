@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4510c879-3890-415d-b74e-77e14c58da31" name="Default Changelist" comment="" />
+    <list default="true" id="4510c879-3890-415d-b74e-77e14c58da31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/server/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/serverImp/UserServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/mapper/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-8080/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Conrtoller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Conrtoller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-8080/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/target/classes/com/lqbs/Conrtoller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-8080/target/classes/com/lqbs/Conrtoller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/microservice-common/target/" />
@@ -12,52 +28,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1550">
-              <caret line="85" selection-start-line="85" selection-end-line="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-common/pom.xml">
+        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/log4j2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-common/src/main/java/com/lqbs/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="1400">
+              <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -66,7 +57,19 @@
         <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Conrtoller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/DruidConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="775">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,13 +90,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/App.java">
+        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/serverImp/UserServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="100">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1025">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-provider-8080/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="68" selection-start-line="68" selection-end-line="72" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3075">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
             </state>
           </provider>
         </entry>
@@ -103,9 +133,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log</find>
+      <find>getAll</find>
+      <find>ssl</find>
+      <find>LOG_PATTERN</find>
+      <find>log4j2</find>
+      <find>log4j</find>
+      <find>imp</find>
+      <find>impl</find>
+      <find>FILE_PATH</find>
+      <find>FILE_NAME</find>
+      <find>test</find>
+      <find>test.log</find>
+      <find>config</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,16 +165,27 @@
         <option value="$PROJECT_DIR$/microservice-common/src/main/java/entity/entity.java" />
         <option value="$PROJECT_DIR$/microservice-common/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-common/src/main/java/com/lqbs/entity/User.java" />
-        <option value="$PROJECT_DIR$/microservice-provider-8080/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/DruidConfiguration.java" />
-        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/Conrtoller/TestController.java" />
         <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/microserver_provider_8080.java" />
         <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/microserver_provider_8080.java" />
         <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Application.java" />
         <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/App.java" />
-        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Conrtoller/TestController.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/log4j2-spring.xml.kt" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/log4j2-spring.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/server/User.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/mapper/UserDao.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/serverImp/UserServer.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/log/test.log" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/logs/test.log" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/logs/test.log" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Conrtoller/TestController.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/SecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -131,29 +194,25 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservice-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservice-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="cloudServers" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="36" />
+    <option name="x" value="333" />
+    <option name="y" value="19" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,13 +223,129 @@
             <path>
               <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
               <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serverImp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-provider-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-config:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-config:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-config-5.3.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-config:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-config-5.3.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="builders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-config:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-config-5.3.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-config:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-config-5.3.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="userdetails" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.3.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.security:spring-security-core:5.3.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-security-core-5.3.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="bcrypt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,8 +355,10 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dltFork" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -238,60 +415,60 @@
       <option name="presentableId" value="Default" />
       <updated>1599556338966</updated>
       <workItem from="1599556341707" duration="5836000" />
+      <workItem from="1599614302579" duration="16262000" />
+      <workItem from="1599700755201" duration="10458000" />
+      <workItem from="1599730996408" duration="1148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5836000" />
+    <option name="totallyTimeSpent" value="33704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.25" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Spring" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.7713976" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31127983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" weight="0.32995737" />
-      <window_info anchor="right" id="make" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="make" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32942432" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/microservice-common/src/main/java/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-common/src/main/java/entity/entity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-common/src/main/java/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-common/src/main/java/entity/entity.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar!/lombok/experimental/Accessors.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -299,41 +476,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-common/src/main/java/com/lqbs/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.4/mysql-connector-java-6.0.4.jar!/com/mysql/cj/jdbc/Driver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.3.RELEASE/spring-boot-2.3.3.RELEASE.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -348,70 +494,331 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/microserver_provider_8080.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/microserver_provider_8080.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Application.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar!/org/slf4j/Logger.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="245">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.3.RELEASE/spring-boot-2.3.3.RELEASE.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/target/classes/log4j2-spring.xml" />
+    <entry file="file://$PROJECT_DIR$/microservice-common/src/main/java/com/lqbs/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/mapper/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/annotation/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.8.RELEASE/spring-context-5.2.8.RELEASE.jar!/org/springframework/stereotype/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-nop/1.7.2/slf4j-nop-1.7.2.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-provider-8080/microserviceprovider8080.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/microserver_provider_8080.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/microserver_provider_8080.java">
+    <entry file="file://$PROJECT_DIR$/microservice-common/microservicecommon.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Application.java">
+    <entry file="file://$PROJECT_DIR$/microservice-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/DruidConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/log/spring.log" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/App.java">
+    <entry file="file://$PROJECT_DIR$/cloudServers.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/logs/microservice-provider-8080/warn.log" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/logs/microservice-provider-8080/info.log" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/logs/microservice-provider-8080/error.log" />
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/logs/test.log" />
+    <entry file="file://$PROJECT_DIR$/logs/test.log" />
+    <entry file="uml://MAVEN/com.lqbs:microservice-provider-8080:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.lqbs:microservice-provider-8080:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lqbs:microservice-provider-8080:1.0-SNAPSHOT</node>
+            <node x="" y="">com.lqbs:microservice-common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.lqbs:microservice-common:jar:1.0-SNAPSHOT/org.projectlombok:lombok:jar:1.16.18</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.11.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.11.2/com.fasterxml.jackson.core:jackson-core:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.3.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.37</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.3.RELEASE/org.glassfish:jakarta.el:jar:3.0.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.3.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.37</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework:spring-web:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework:spring-web:jar:5.2.8.RELEASE/org.springframework:spring-beans:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework:spring-webmvc:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework:spring-webmvc:jar:5.2.8.RELEASE/org.springframework:spring-aop:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework:spring-webmvc:jar:5.2.8.RELEASE/org.springframework:spring-context:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.3.3.RELEASE/org.springframework:spring-webmvc:jar:5.2.8.RELEASE/org.springframework:spring-expression:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-test:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3/jakarta.activation:jakarta.activation-api:jar:1.2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.assertj:assertj-core:jar:3.16.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.hamcrest:hamcrest:jar:2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-api:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-api:jar:5.6.2/org.opentest4j:opentest4j:jar:1.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-api:jar:5.6.2/org.junit.platform:junit-platform-commons:jar:1.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-params:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.jupiter:junit-jupiter:jar:5.6.2/org.junit.jupiter:junit-jupiter-engine:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2/org.apiguardian:apiguardian-api:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2/org.junit.platform:junit-platform-engine:jar:1.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.junit.vintage:junit-vintage-engine:jar:5.6.2/junit:junit:jar:4.13</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.mockito:mockito-core:jar:3.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.mockito:mockito-core:jar:3.3.3/net.bytebuddy:byte-buddy:jar:1.10.14</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.mockito:mockito-core:jar:3.3.3/net.bytebuddy:byte-buddy-agent:jar:1.10.14</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.mockito:mockito-core:jar:3.3.3/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.mockito:mockito-junit-jupiter:jar:3.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.2.8.RELEASE/org.springframework:spring-jcl:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.springframework:spring-test:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.3.3.RELEASE/org.xmlunit:xmlunit-core:jar:2.7.0</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.3.3.RELEASE/com.zaxxer:HikariCP:jar:3.4.5</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.3.3.RELEASE/org.springframework:spring-jdbc:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.3.3.RELEASE/org.springframework:spring-jdbc:jar:5.2.8.RELEASE/org.springframework:spring-tx:jar:5.2.8.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis:jar:3.4.6</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis-spring:jar:1.3.2</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:6.0.4</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/com.alibaba:druid:jar:1.1.10</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/org.slf4j:slf4j-api:jar:1.7.30</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.10/org.springframework.boot:spring-boot-autoconfigure:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.3.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.3.2.RELEASE/org.apache.logging.log4j:log4j-slf4j-impl:jar:2.9.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.3.2.RELEASE/org.apache.logging.log4j:log4j-slf4j-impl:jar:2.9.1/org.apache.logging.log4j:log4j-api:jar:2.13.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.3.2.RELEASE/org.apache.logging.log4j:log4j-core:jar:2.13.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.3.2.RELEASE/org.apache.logging.log4j:log4j-jul:jar:2.13.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j2:jar:2.3.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.30</node>
+            <node x="" y="">org.slf4j:slf4j-nop:jar:1.7.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.3.3.RELEASE/org.springframework.boot:spring-boot:jar:2.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.3.3.RELEASE/jakarta.annotation:jakarta.annotation-api:jar:1.3.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.3.3.RELEASE/org.yaml:snakeyaml:jar:1.26</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8627664020058503" x="847.0" y="616.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.3.RELEASE/spring-boot-dependencies-2.3.3.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="202">
+          <caret line="2387" column="6" selection-start-line="2387" selection-start-column="6" selection-end-line="2387" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/server/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/method/configuration/EnableGlobalMethodSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="65" column="60" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/authentication/configurers/userdetails/AbstractDaoAuthenticationConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Conrtoller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/DruidConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/serverImp/UserServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="68" selection-start-line="68" selection-end-line="72" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1550">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="3075">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="46" column="52" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-8080/src/main/java/com/lqbs/Config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -492,7 +899,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <last-edited>Maven: com.alibaba:druid-spring-boot-starter:1.1.10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
