@@ -2,43 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6db4466a-8b28-45ec-9736-a32f8eae7438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front/lqbsadmin/vue.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-Eureka/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-Eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/java/com/lqbs/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/java/com/lqbs/eureka_server_8761.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/config/DruidConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/config/WebsoketConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/controller/WebSocketController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/service/WebSocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/websoket_7010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/mapper/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/docker/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/club-manager" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager/src/main.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager/src/utils/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager/src/utils/api.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager/src/views/FinanceCenter/FinancialVerification.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager/src/views/FinanceCenter/FinancialVerification.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager/src/views/Login.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/vue-element-admin" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue-element-admin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/vue-element-admin/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue-element-admin/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/vue-element-admin/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue-element-admin/src/views/login/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/vue-element-admin/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue-element-admin/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/consloe.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/microservice-provider-8080/error.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/microservice-provider-8080/info.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/microservice-provider-8080/warn.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-8080/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/target/classes/META-INF/microserviceprovider8080.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-provider-8080/target/classes/com/lqbs/Conrtoller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-provider-8080/target/classes/com/lqbs/Conrtoller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/consloe.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/consloe.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/microservice-websoket-7010/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/microservice-websoket-7010/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/microservice-websoket-7010/warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/microservice-websoket-7010/warn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-Eureka/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-Eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-Eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-websoket-7010/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-websoket-7010/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/front/club-manager/node_modules/" />
     <ignored path="$PROJECT_DIR$/front/vue-element-admin/node_modules/" />
@@ -55,11 +38,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-150">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="130" column="6" selection-start-line="130" selection-start-column="6" selection-end-line="148" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -67,8 +59,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-Eureka/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="67" column="40" lean-forward="true" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
+            <state relative-caret-position="844">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/docker/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/src/main/docker/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -78,6 +88,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
               <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -102,6 +121,7 @@
       <find>mysql</find>
       <find>DataSource</find>
       <find>sid</find>
+      <find>name</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,15 +138,17 @@
         <option value="$PROJECT_DIR$/microservice-Eureka/src/main/java/com/lqbs/eureka_server_7000.java" />
         <option value="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/config/WebsoketConfig.java" />
         <option value="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/websoket_7010.java" />
-        <option value="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/config/DruidConfiguration.java" />
         <option value="$PROJECT_DIR$/microservice-Eureka/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-websoket-7010/src/main/java/com/lqbs/controller/WebSocketController.java" />
         <option value="$PROJECT_DIR$/microservice-Eureka/Dockerfile" />
         <option value="$PROJECT_DIR$/microservice-common/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-websoket-7010/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-Eureka/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/microservice-websoket-7010/src/main/docker/Dockerfile" />
       </list>
     </option>
   </component>
@@ -135,11 +157,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cloudServers" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="microservice-websoket-7010" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="cloudServers" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="microservice-websoket-7010" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -167,6 +189,17 @@
               <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-websoket-7010" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-websoket-7010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,7 +215,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600323798802" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600329855012" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -193,6 +226,8 @@
       <recent name="com.lqbs.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaworkspace\cloudServers\microservice-websoket-7010\src\main" />
+      <recent name="D:\javaworkspace\cloudServers\microservice-Eureka\src\main\docker" />
       <recent name="D:\javaworkspace\cloudServers\microservice-websoket-7010\src\main\resources" />
     </key>
   </component>
@@ -208,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.websoket_7010">
+  <component name="RunManager" selected="Docker.docker/Dockerfile">
     <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="microserviceprovider8080" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lqbs.App" />
@@ -242,13 +277,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="docker/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="microservice-Eureka/src/main/docker/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.App" />
       <item itemvalue="Spring Boot.eureka_server_8761" />
       <item itemvalue="Spring Boot.websoket_7010" />
+      <item itemvalue="Docker.docker/Dockerfile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.docker/Dockerfile" />
         <item itemvalue="Spring Boot.websoket_7010" />
         <item itemvalue="Spring Boot.eureka_server_8761" />
       </list>
@@ -267,15 +312,16 @@
       <workItem from="1600218778195" duration="2924000" />
       <workItem from="1600221754871" duration="3030000" />
       <workItem from="1600224838734" duration="15865000" />
-      <workItem from="1600305378837" duration="7265000" />
+      <workItem from="1600305378837" duration="11757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29084000" />
+    <option name="totallyTimeSpent" value="33576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,13 +333,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.22885032" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.22559653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.5043384" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
@@ -303,10 +349,10 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="make" order="6" />
+      <window_info anchor="right" id="make" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -539,24 +585,10 @@
     <entry file="file://$PROJECT_DIR$/logs/microservice-websoket-7010/info.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/java/com/lqbs/config/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-Eureka/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -570,22 +602,8 @@
     <entry file="file://$PROJECT_DIR$/microservice-common/target/maven-archiver/pom.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-provider-8080/microserviceprovider8080.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-Eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="67" column="40" lean-forward="true" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -594,10 +612,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-Eureka/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/spotify/docker-maven-plugin/0.4.3/docker-maven-plugin-0.4.3.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-150">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/maven-model-builder-3.3.9.jar!/org/apache/maven/model/pom-4.0.0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="130" column="6" selection-start-line="130" selection-start-column="6" selection-end-line="148" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-Eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-websoket-7010/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

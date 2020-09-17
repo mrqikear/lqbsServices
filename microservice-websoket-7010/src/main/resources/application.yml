@@ -1,7 +1,7 @@
 debug: false
 spring:
   application:
-    name: websoket-7010-eureka
+    name: websoket-provider
   datasource: # 数据库配置
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.cj.jdbc.Driver

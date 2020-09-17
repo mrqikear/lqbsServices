@@ -12,6 +12,17 @@
     <artifactId>microservice-websoket-7010</artifactId>
     <packaging>jar</packaging>
 
+
+
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <!--properties节点中设置docker镜像的前缀“springboot”-->
+        <docker.image.prefix>mrqi-microservice-websoket</docker.image.prefix>
+        <java.version>1.8</java.version>
+    </properties>
+
     <!-- 当前Module需要用到的依赖，按自己需求添加，版本号在父类已经定义了，这里不需要再次定义 -->
     <dependencies>
         <!-- 引入自己定义的 microservice-common 通用包，可以使用common模块中的TOrder类 -->
@@ -66,12 +77,6 @@
             <artifactId>spring-boot-starter-websocket</artifactId>
         </dependency>
 
-        <!--<dependency>-->
-            <!--<groupId>org.springframework.boot</groupId>-->
-            <!--<artifactId>spring-boot-starter-security</artifactId>-->
-        <!--</dependency>-->
-
-
         <!-- eureka -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
@@ -121,6 +126,29 @@
                     </execution>
                 </executions>
             </plugin>
+
+
+                <!--docker bulid -->
+            <!-- tag::plugin[]  docker bulid-->
+            <plugin>
+                <groupId>com.spotify</groupId>
+                <artifactId>docker-maven-plugin</artifactId>
+                <version>0.4.3</version>
+                <configuration>
+                    <imageName>${docker.image.prefix}/${project.artifactId}</imageName>
+                    <dockerDirectory>src/main/docker</dockerDirectory>
+                    <resources>
+                        <resource>
+                            <targetPath>/</targetPath>
+                            <directory>${project.build.directory}</directory>
+                            <include>${project.build.finalName}.jar</include>
+                        </resource>
+                    </resources>
+                </configuration>
+            </plugin>
+            <!-- end::plugin[] -->
+
+
         </plugins>
     </build>
 
