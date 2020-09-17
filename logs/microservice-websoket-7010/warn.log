@@ -1,2 +1,0 @@
-14:44:44.793 [main] WARN  com.netflix.config.sources.URLConfigurationSource  - No URLs will be polled as dynamic configuration sources.
-14:44:44.809 [main] WARN  com.netflix.config.sources.URLConfigurationSource  - No URLs will be polled as dynamic configuration sources.

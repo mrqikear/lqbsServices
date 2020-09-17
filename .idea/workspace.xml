@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6db4466a-8b28-45ec-9736-a32f8eae7438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/docker/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/club-manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/club-manager/package-lock.json" afterDir="false" />
@@ -15,13 +14,6 @@
       <change beforePath="$PROJECT_DIR$/front/vue-element-admin/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue-element-admin/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/vue-element-admin/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue-element-admin/src/views/login/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front/vue-element-admin/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/vue-element-admin/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/consloe.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/consloe.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/microservice-websoket-7010/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/microservice-websoket-7010/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/microservice-websoket-7010/warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/microservice-websoket-7010/warn.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-Eureka/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/docker/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-Eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-Eureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-websoket-7010/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-websoket-7010/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-websoket-7010/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/front/club-manager/node_modules/" />
     <ignored path="$PROJECT_DIR$/front/vue-element-admin/node_modules/" />
@@ -154,17 +146,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservice-websoket-7010" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservice-websoket-7010" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -192,13 +174,12 @@
             <path>
               <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-websoket-7010" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloudServers" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloudServers" type="462c0819:PsiDirectoryNode" />
               <item name="microservice-websoket-7010" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,7 +196,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600329855012" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600330067316" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -312,16 +293,15 @@
       <workItem from="1600218778195" duration="2924000" />
       <workItem from="1600221754871" duration="3030000" />
       <workItem from="1600224838734" duration="15865000" />
-      <workItem from="1600305378837" duration="11757000" />
+      <workItem from="1600305378837" duration="12023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33576000" />
+    <option name="totallyTimeSpent" value="33842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -333,13 +313,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.22559653" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.22559653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.63123643" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.5043384" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
@@ -349,7 +329,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="make" order="6" weight="0.32995737" />
