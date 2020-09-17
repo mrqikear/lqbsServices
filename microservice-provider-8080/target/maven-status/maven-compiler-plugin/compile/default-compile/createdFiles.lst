@@ -1,7 +1,0 @@
-com\lqbs\App.class
-com\lqbs\Config\SecurityConfig.class
-com\lqbs\Conrtoller\TestController.class
-com\lqbs\serverImp\UserServer.class
-com\lqbs\Config\DruidConfiguration.class
-com\lqbs\dao\UserDao.class
-com\lqbs\server\User.class
