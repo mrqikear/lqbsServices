@@ -8,7 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecommon" />
+        <module name="microserviceEureka" />
         <module name="microserviceprovider8080" />
+        <module name="microservicewebsoket7010" />
       </profile>
     </annotationProcessing>
   </component>

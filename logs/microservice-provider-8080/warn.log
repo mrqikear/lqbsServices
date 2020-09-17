@@ -1,2 +1,0 @@
-11:34:15.624 [http-nio-8080-exec-1] WARN  com.lqbs.Conrtoller.TestController  - 这是log4j2的日志测试，warn级别
-11:34:15.624 [http-nio-8080-exec-1] ERROR com.lqbs.Conrtoller.TestController  - 这是log4j2的日志测试，error级别

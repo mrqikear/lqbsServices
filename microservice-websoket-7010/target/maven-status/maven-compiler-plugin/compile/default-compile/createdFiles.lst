@@ -1,0 +1,5 @@
+com\lqbs\controller\WebSocketController.class
+com\lqbs\config\DruidConfiguration.class
+com\lqbs\config\WebsoketConfig.class
+com\lqbs\websoket_7010.class
+com\lqbs\service\WebSocketServer.class
